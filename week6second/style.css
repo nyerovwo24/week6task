@@ -1,0 +1,16 @@
+body{
+    background-image: url(../fetch/img11.jpg);
+}
+.profImg{
+    border-radius: 50%;
+}
+h2{
+    color: plum;
+}
+p{
+    color: rebeccapurple;
+}
+#main{
+    display: grid;
+    place-content: center;
+}
